@@ -1,5 +1,6 @@
 ### Hi there 👋
-![]("C:\Users\carol\Downloads\Banner de Linkedin para Copywriter Moderno Neutral.png")
+![Banner de Linkedin para Copywriter Moderno Neutral](https://github.com/55Carol/55carol/assets/124713128/58f23b56-9f22-4722-87ab-b5535d79ef08)
+
 # 💫 About Me:
 ¡Hola! Soy Carol Robles, Front End Developer, he tenido anteriormente formación y experiencia profesional en docencia y en Administración. Mi experiencia como docente me permitió explorar y conocer más de tecnología,lo que me llevó a la oportunidad de estudiar en Laboratoria. Me gusta estar en constante formación y aprendizajes, trabajar en equipos innovadores, creativos y enfocados en buenas prácticas. <br><br>
 Soy una persona amigable,respetuosa, responsable, con iniciativa y con muchas ganas de seguir aprendiendo y desarrollándome. <br><br><br><br><br><br>
